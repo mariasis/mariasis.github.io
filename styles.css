@@ -2,7 +2,12 @@
 * {
   box-sizing: border-box;
 }
-
+h1{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+}
 #rcorners1 {
   border-radius: 25px;
   background: #73AD21;
